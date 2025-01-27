@@ -213,24 +213,24 @@ document.addEventListener("DOMContentLoaded", function () {
   // Data proyek (dalam praktiknya, ini bisa berasal dari database atau API)
   const projectData = {
     "Website Sekolah": [
-      "/img/web sekolah.png",
-      "/img/web sekolah1.png",
-      "/img/web sekolah2.png",
-      "/img/web sekolah3.png",
-      "/img/web sekolah4.png",
-      "/img/web sekolah5.png",
+      "dist/img/web sekolah.png",
+      "dist/img/web sekolah1.png",
+      "dist/img/web sekolah2.png",
+      "dist/img/web sekolah3.png",
+      "dist/img/web sekolah4.png",
+      "dist/img/web sekolah5.png",
     ],
     "Personal Portfolio": [
-      "/img//per1.png",
-      "/img//per2.png",
-      "/img//per3.png",
-      "/img//per4.png",
+      "dist/img//per1.png",
+      "dist/img//per2.png",
+      "dist/img//per3.png",
+      "dist/img//per4.png",
     ],
     "Klinik Design": [
-      "/img/fig1.png",
-      "/img/fig3.png",
-      "/img/fig4.png",
-      "/img/fig2.png",
+      "dist/img/fig1.png",
+      "dist/img/fig3.png",
+      "dist/img/fig4.png",
+      "dist/img/fig2.png",
     ],
   };
 
