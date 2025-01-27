@@ -8,7 +8,7 @@
     "autoprefixer": "^10.4.14"
   },
   "scripts": {
-    "build": "tailwindcss -i src/styles.css -o dist/output.css",
+    "build": "node ./node_modules/tailwindcss/lib/cli.js -i ./src/styles.css -o ./dist/output.css",
     "watch": "npx tailwindcss -i ./src/styles.css -o ./dist/output.css --watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
