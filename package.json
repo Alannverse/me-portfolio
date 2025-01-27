@@ -2,7 +2,7 @@
   "name": "port-new",
   "version": "1.0.0",
   "main": "tailwind.config.js",
-  "devDependencies": {
+  "dependencies": {
     "tailwindcss": "^3.4.14",
     "postcss": "^8.4.47",
     "autoprefixer": "^10.4.14"
